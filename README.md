@@ -1,23 +1,17 @@
-# Mess Management Platform for IIIT LUCKNOW
+1# Mess Management Platform for IIIT LUCKNOW
 
 This platform is tailored for IIIT LUCKNOW to streamline mess management by providing distinct interfaces for mess supervisors and students. It offers efficient tools for managing daily operations and a user-friendly interface for meal selection and purchasing.
 
-## For MESS SUPERVISORS
+## For Mess Supervisors
 
-The dedicated supervisor portal facilitates the following functions:
+The supervisor portal provides a centralized platform to efficiently manage mess operations through the following features:
 
-- **Weekly Menu Administration:**  
-  Update and maintain the weekly meal offerings with ease.
-- **Schedule Management:**  
-  Adjust meal service timings to align with operational requirements.
-- **Pricing Control:**  
-  Configure and modify meal prices dynamically.
-- **Demand Monitoring:**  
-  Track the total number of meals to be prepared based on student selections.
-- **QR Code Verification:**  
-  Validate meal coupons by scanning unique QR codes to ensure authenticity.
-- **Integrated Payment Processing:**  
-  Leverage Razorpay integration for secure and efficient online transactions.
+- **Weekly Menu Management:** Easily create, update, and manage meal menus for the entire week.
+- **Meal Timing Management:** Modify breakfast, lunch, and dinner schedules according to operational needs.
+- **Flexible Pricing Management:** Set and update meal prices whenever required.
+- **Meal Demand Tracking:** Monitor student meal selections to estimate the total quantity of food to be prepared.
+- **QR Code-Based Verification:** Scan and authenticate unique QR codes to verify meal coupons and prevent unauthorized usage.
+- **Secure Online Payments:** Enable seamless and secure transactions through integrated Razorpay payment services.
 
 ## For STUDENTS
 
